@@ -62,7 +62,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [SimpleLocalize](https://github.com/simplelocalize/simplelocalize-cli) - Open source tool for managing i18n keys in software projects.
 
 ### Communication
-
+- [Discord](https://discord.com/) - Discord is a VoIP and instant messaging social platform.
 - [Conversations](https://conversations.im/) - XMPP/Jabber client for Android. ([GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
 - [Gajim](https://gajim.org/) - XMPP/Jabber client for desktop. ([GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
@@ -102,6 +102,8 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. ([EPL](http://www.eclipse.org/legal/epl-v10.html))
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. ([Apache License 2.0](https://github.com/JetBrains/intellij-community/blob/master/LICENSE.txt))
+- [Visual Studio Code](https://code.visualstudio.com/) - It is an open source code editor and IDE developed by Microsoft.
+
 
 ### Office
 
@@ -115,6 +117,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/) - FSF endorsed derivative of Debian. (Multiple licenses)
 - [LineageOS](https://lineageos.org/) - Android distribution for phones and tablets and successor of CyanogenMod. (Multiple licenses)
+- [Kali Linux](https://www.kali.org/) - Kali Linux is an open-source, Debian-based Linux distribution geared towards various information security tasks, such as Penetration Testing, Security Research, Computer Forensics and Reverse Engineering.
 
 ### Other
 
@@ -195,6 +198,10 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Wallabag](https://wallabag.org/en) - Save and classify articles. Read them later. Freely. ([MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 - [Weblate](https://weblate.org) - Translation management system with version control integration. ([GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
+- [Pixelfed](pixelfed.org) - A free and ethical photo sharing platform, powered by ActivityPub federation. (AGPL-3.0)
+- [Misskey](https://misskey-hub.net/en/) - Misskey is an open source, decentralized social media platform that's free forever! 
+- [Pleroma](pleroma.social) - Pleroma microblogging platform is appreciated by the community for its low resource consumption (AGPL-3.0)
+- [PeerTube](joinpeertube.org/en) - Unlike centralized video platforms, PeerTube considers each user as a person, and not as a product to track and sell advertisements. (AGPL-3.0)
 
 ### Web Servers
 
