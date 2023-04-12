@@ -1,6 +1,9 @@
+```
+I increased the content.
+```
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Software in this list is distributed under terms that allow anyone to use, modify, and share the software for any purpose. The two most popular licenses are the [MIT License](https://choosealicense.com/licenses/mit/) and the [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/), but there are [many other licenses](https://choosealicense.com/appendix/) which grant these permissions.
+Software in this list is distributed under terms that allow anyone to use, modify, and share the software for any purpose. The two most popular licenses are the [MIT License](https://choosealicense.com/licenses/mit/) and the [GNU GPL](https://choosealicense.com/licenses/gpl-3.0/), but there are [many other licenses](https://choosealicense.com/appendix/) which grant these permissions. (
 
 ## Contents
 
