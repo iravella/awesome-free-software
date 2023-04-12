@@ -85,10 +85,17 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [FileZilla](https://filezilla-project.org/) - Universal FTP solution. 
 - [WinSCP](https://github.com/winscp/winscp) - SFTP and FTP client for Windows.
 
+
 ### File Sharing
 
 - [qBittorrent](https://www.qbittorrent.org/) - Easy to use BitTorrent client. 
 - [Sharry](https://eikek.github.io/sharry/) - Convinient file sharing web application that allows you to upload files and get a url back that can then be shared. 
+- [WeTransfer](https://wetransfer.com/) - A file transfer service that allows you to quickly and easily share large files.
+- [MediaFire](https://www.mediafire.com/) - A cloud storage service that allows you to upload and share files.
+- [Mega](https://mega.nz/) - An encrypted cloud storage and file sharing service.
+- [pCloud](https://www.pcloud.com/) - A secure cloud storage service where you can upload and share files.
+- [Sync.com](https://www.sync.com/)- A secure cloud storage service that allows you to upload and share files while encrypting them.
+
 
 ### Graphics
 
