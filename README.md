@@ -14,6 +14,7 @@ Software in this list is distributed under terms that allow anyone to use, modif
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
   - [Graphics](#graphics)
+  - [Security Software](security-software)
   - [IDEs](#ides)
   - [Office](#office)
   - [Operating Systems](#operating-systems)
