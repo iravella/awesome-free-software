@@ -59,7 +59,6 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [OBS Studio](https://obsproject.com/) - A free and open-source software for live streaming and video recording.
 
 
-Shotcut: A free, open-source video editor that supports a wide range of video and audio formats. It features a simple, intuitive interface and supports advanced video and audio editing features like filters, transitions, and more.
 
 ### Command Line Tools
 
