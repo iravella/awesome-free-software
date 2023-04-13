@@ -53,6 +53,11 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [LMMS](https://lmms.io/) - Complete digital audio workstation. 
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. 
 - [Nuclear Music Player](https://nuclear.js.org/) - Streaming music player that finds music from free sources automatically. 
+- [VLC Media Player](https://www.videolan.org/vlc/) - Open-source multimedia player that can play almost any media format, including DVD, CD, and streaming protocols.
+- [OBS Studio](https://obsproject.com/) - A free and open-source software for live streaming and video recording.
+
+
+Shotcut: A free, open-source video editor that supports a wide range of video and audio formats. It features a simple, intuitive interface and supports advanced video and audio editing features like filters, transitions, and more.
 
 ### Command Line Tools
 
@@ -111,7 +116,6 @@ Software in this list is distributed under terms that allow anyone to use, modif
 
 - [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. 
 - [IntelliJ IDEA Community Edition](https://github.com/JetBrains/intellij-community) - Java/Android IDE with the goal of maximizing developer productivity. 
-- [Visual Studio Code](https://code.visualstudio.com/) - It is an open source code editor and IDE developed by Microsoft.
 
 
 ### Office
@@ -294,6 +298,11 @@ Software in this list is distributed under terms that allow anyone to use, modif
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
 - [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 - [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
+
+### Security Software
+
+- [Keepass](https://keepass.info/) - A free, open-source password manager that securely stores passwords and sensitive information in an encrypted database.
+
 
 ### Other Lists
 
