@@ -112,6 +112,12 @@ Shotcut: A free, open-source video editor that supports a wide range of video an
 - [Pinta](https://pinta-project.com/) - Gtk# clone of Paint.NET. 
 - [Piskel](http://www.piskelapp.com/) - Online sprite editor. 
 
+### Security Software
+
+- [Keepass](https://keepass.info/) - A free, open-source password manager that securely stores passwords and sensitive information in an encrypted database.
+- [ZAP](https://www.zaproxy.org/) -  A popular, free security tool maintained by an international team of volunteers.
+- [NMAP](https://nmap.org/) - Nmap is a free and open-source tool used for network security scanning.
+
 ### IDEs
 
 - [Eclipse](https://www.eclipse.org/eclipseide/) - Extensible IDE that supports the latest Java versions as well as other languages. 
@@ -298,10 +304,6 @@ Shotcut: A free, open-source video editor that supports a wide range of video an
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
 - [Snowdrift.coop](https://snowdrift.coop/) - Crowdmatching for public goods.
 - [TuxFamily](https://www.tuxfamily.org/) - No cost hosting and other services for libre projects.
-
-### Security Software
-
-- [Keepass](https://keepass.info/) - A free, open-source password manager that securely stores passwords and sensitive information in an encrypted database.
 
 
 ### Other Lists
